@@ -10,7 +10,7 @@ This project aims to classify finance-related texts into one of the three sentim
 
 ## Data
 The data used in this project includes:
-- Source: 
+- Source: [Kaggle dataset](https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis)
 - Format: csv file with 2 columns Sentence/Sentiment
 
 ## Method
@@ -32,6 +32,4 @@ Our approach consists of the following steps:
    - ROC/AUC
    - Confusion matrix
 
-## Results
-- Performance Metrics: 
-- Limitations: class imbalance, class edges ambiguity
+Limitations: class imbalance, class edges ambiguity
