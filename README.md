@@ -14,7 +14,7 @@ The data used in this project includes:
 - Format: csv file with 2 columns Sentence/Sentiment
 
 ## Method
-Our approach consists of the following steps:
+The approach consists of the following steps:
 1. Data preprocessing
    - Cleaning: dealing with missing values, duplicates, annotation inconsistencies and removing some special characters
    - Transformation: using a sentence transformers model to get embeddings for each sentence and a label encoder for the classes
