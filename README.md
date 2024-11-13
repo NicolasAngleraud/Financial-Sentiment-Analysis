@@ -6,7 +6,7 @@
 ---
 
 ## Context
-This project aims to classify finance-related texts into one of the three sentiment classes: positive, neutral, positive.
+This project aims to classify finance-related texts into one of the three sentiment classes: positive, neutral, negative.
 
 ## Data
 The data used in this project includes:
